@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="77155fd7-5f7f-4484-b881-47db8ddde1b3" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/ClasseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/CoursDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/EnseignantDAO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/EtudiantDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/InscriptionDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/NoteDAO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/database/db.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/model/Classe.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/model/Cours.java" afterDir="false" />
@@ -20,6 +15,11 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/model/Inscription.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/model/Note.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/ClasseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/ClasseDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/CoursDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/CoursDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/EnseignantDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/EnseignantDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/InscriptionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/InscriptionDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/NoteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/gesecole/dao/NoteDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
